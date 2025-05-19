@@ -55,10 +55,10 @@
   <header>
     <h1>Panel de Administración - Reservas</h1>
     <nav>
-      <a href="dashboard.html">Dashboard</a>
-      <a href="reservas-listado.html" class="active">Reservas</a>
-      <a href="reportes.html">Reportes</a>
-      <a href="login.html">Cerrar Sesión</a>
+      <a href="dashboard.php">Dashboard</a>
+      <a href="reservas-listado.php" class="active">Reservas</a>
+      <a href="reportes.php">Reportes</a>
+      <a href="login.php">Cerrar Sesión</a>
     </nav>
   </header>
 

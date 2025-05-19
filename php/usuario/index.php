@@ -34,6 +34,5 @@
   <footer>
     <p>&copy; 2025 Sumaq Yaku. Todos los derechos reservados.</p>
   </footer>
-  <script src="js/animacion-pez.js"></script>
 </body>
 </html>

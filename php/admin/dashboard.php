@@ -22,10 +22,10 @@
   <header>
     <h1>Panel de Administración - Dashboard</h1>
     <nav>
-      <a href="dashboard.html" class="active">Dashboard</a>
-      <a href="reservas-listado.html">Reservas</a>
-      <a href="reportes.html">Reportes</a>
-      <a href="login.html">Cerrar Sesión</a>
+      <a href="dashboard.php" class="active">Dashboard</a>
+      <a href="reservas-listado.php">Reservas</a>
+      <a href="reportes.php">Reportes</a>
+      <a href="login.php">Cerrar Sesión</a>
     </nav>
   </header>
 

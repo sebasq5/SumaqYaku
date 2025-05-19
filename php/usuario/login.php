@@ -10,10 +10,10 @@
   <header>
     <h1>Sumaq Yaku</h1>
     <nav>
-      <a href="index.html">Inicio</a>
-      <a href="reservar-mesa.html">Reservas</a>
-      <a href="consultar-reserva.html">Consultar</a>
-      <a href="login.html">Iniciar Sesión</a>
+      <a href="index.php">Inicio</a>
+      <a href="reservar-mesa.php">Reservas</a>
+      <a href="consultar-reserva.php">Consultar</a>
+      <a href="login.php">Iniciar Sesión</a>
     </nav>
   </header>
 

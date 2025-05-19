@@ -77,10 +77,10 @@
   <header>
     <h1>Panel de Administración - Reportes</h1>
     <nav>
-      <a href="dashboard.html">Dashboard</a>
-      <a href="reservas-listado.html">Reservas</a>
-      <a href="reportes.html" class="active">Reportes</a>
-      <a href="login.html">Cerrar Sesión</a>
+      <a href="dashboard.php">Dashboard</a>
+      <a href="reservas-listado.php">Reservas</a>
+      <a href="reportes.php" class="active">Reportes</a>
+      <a href="login.php">Cerrar Sesión</a>
     </nav>
   </header>
 
